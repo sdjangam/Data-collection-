@@ -1,2 +1,2 @@
 # Data-collection-
-Data collection for data science
+Data collection
